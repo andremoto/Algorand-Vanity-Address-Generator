@@ -4,7 +4,7 @@ from algosdk import account, mnemonic
 import time
 
 # Desired prefix for address.
-PREFIX = "" # CHANGE TO WHAT PREFIX IS NEEDED // BETTER RESULYS WHEN CHAR IS < 5
+PREFIX = "" # CHANGE TO WHAT PREFIX IS NEEDED // BETTER RESULTS WHEN CHAR IS < 5
 
 # Variables containing Private Key and Address
 PRIVATE_KEY = ""
